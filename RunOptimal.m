@@ -11,7 +11,7 @@
 % Masters in Mathematical Sciences.
 
 
-%% RunOptimal.m script
+%% Optimal.m script
 
 % Choose number of females considered
 N=50;
