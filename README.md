@@ -14,12 +14,12 @@ The main scripts are:
 The folders supp_functions.m and supp_data.m contain the supplementary scripts and data used in the main scripts.
 
 To change the parameters and/or functional forms of the Fixed-Brood model, modify the scripts co.m (offspring condition),
-invs.m (investemnt capability) or f_male.m and f_female.m (male and female fitness). These are all in the supp_functions folder.
+invs.m (investment capability) or f_male.m and f_female.m (male and female fitness). These are all in the supp_functions folder.
 
 To change parameters such as population size, number of iterations, etc., see the main scripts.
 
 All scripts are commented to be user friendly but we refer to the main text of the project for definitions of parameters, functions, etc. 
 
 All scripts were developed by the author except for limitdist.m, used to find the limiting distribution from the 
-probability transition matrix of a markov chain. This was taken from http://www.math.wustl.edu/~feres/Math450Lect04.pdf .
+probability transition matrix of a markov chain. This was adapted from http://www.math.wustl.edu/~feres/Math450Lect04.pdf .
 
